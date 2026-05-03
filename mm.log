@@ -1,0 +1,106 @@
+2026-05-03 21:48:08,717 - INFO - Waiting for user's input
+2026-05-03 21:48:10,231 - INFO - User pressed -
+2026-05-03 21:48:15,421 - INFO - User pressed 5
+2026-05-03 21:48:16,549 - INFO - User pressed 
+2026-05-03 21:48:19,333 - INFO - User pressed 5
+2026-05-03 21:48:20,237 - INFO - User pressed 9
+2026-05-03 21:48:20,598 - INFO - User pressed .
+2026-05-03 21:48:20,894 - INFO - User pressed 8
+2026-05-03 21:48:21,738 - INFO - User pressed 
+2026-05-03 21:48:21,739 - INFO - Enter Detected
+2026-05-03 21:48:21,739 - INFO - User's input returned
+2026-05-03 21:48:21,739 - WARNING - question: -82 + 22.2
+2026-05-03 21:48:21,739 - WARNING - user_ans: -299/5
+2026-05-03 21:48:21,739 - INFO - Binary get_value, left -82, right 111/5
+2026-05-03 21:48:21,739 - WARNING - correct ans: -299/5
+2026-05-03 21:48:21,739 - INFO - Binary get_value, left -82, right 111/5
+2026-05-03 21:48:21,740 - WARNING - is correct: True
+2026-05-03 21:48:21,740 - INFO - Binary get_value, left -82, right 111/5
+2026-05-03 21:48:21,740 - INFO - Waiting for user's input
+2026-05-03 21:48:25,216 - INFO - User pressed -
+2026-05-03 21:48:29,712 - INFO - User pressed 3
+2026-05-03 21:48:32,209 - INFO - User pressed 6
+2026-05-03 21:48:33,091 - INFO - User pressed 
+2026-05-03 21:48:33,091 - INFO - Enter Detected
+2026-05-03 21:48:33,091 - INFO - User's input returned
+2026-05-03 21:48:33,091 - WARNING - question: 31.0 - 67
+2026-05-03 21:48:33,091 - WARNING - user_ans: -36
+2026-05-03 21:48:33,092 - INFO - Binary get_value, left 31, right 67
+2026-05-03 21:48:33,092 - WARNING - correct ans: -36
+2026-05-03 21:48:33,092 - INFO - Binary get_value, left 31, right 67
+2026-05-03 21:48:33,092 - WARNING - is correct: True
+2026-05-03 21:48:33,092 - INFO - Binary get_value, left 31, right 67
+2026-05-03 21:48:33,092 - INFO - Waiting for user's input
+2026-05-03 21:48:35,703 - INFO - User pressed 4
+2026-05-03 21:48:35,934 - INFO - User pressed 0
+2026-05-03 21:48:36,404 - INFO - User pressed /
+2026-05-03 21:48:38,052 - INFO - User pressed 
+2026-05-03 21:48:38,220 - INFO - User pressed 
+2026-05-03 21:48:38,458 - INFO - User pressed 
+2026-05-03 21:48:39,148 - INFO - User pressed -
+2026-05-03 21:48:39,494 - INFO - User pressed 4
+2026-05-03 21:48:39,809 - INFO - User pressed 9
+2026-05-03 21:48:41,308 - INFO - User pressed 4
+2026-05-03 21:48:41,688 - INFO - User pressed 7
+2026-05-03 21:48:42,557 - INFO - User pressed 
+2026-05-03 21:48:42,654 - INFO - User pressed 
+2026-05-03 21:48:43,497 - INFO - User pressed /
+2026-05-03 21:48:43,854 - INFO - User pressed 4
+2026-05-03 21:48:44,058 - INFO - User pressed 7
+2026-05-03 21:48:44,540 - INFO - User pressed 
+2026-05-03 21:48:44,540 - INFO - Enter Detected
+2026-05-03 21:48:44,540 - INFO - User's input returned
+2026-05-03 21:48:44,541 - WARNING - question: 49 / -47
+2026-05-03 21:48:44,541 - WARNING - user_ans: -49/47
+2026-05-03 21:48:44,541 - INFO - Binary get_value, left 49, right -47
+2026-05-03 21:48:44,541 - WARNING - correct ans: -49/47
+2026-05-03 21:48:44,541 - INFO - Binary get_value, left 49, right -47
+2026-05-03 21:48:44,541 - WARNING - is correct: True
+2026-05-03 21:48:44,541 - INFO - Binary get_value, left 49, right -47
+2026-05-03 21:48:44,541 - INFO - Waiting for user's input
+2026-05-03 21:48:46,804 - INFO - User pressed -
+2026-05-03 21:48:51,076 - INFO - User pressed 8
+2026-05-03 21:48:51,325 - INFO - User pressed 5
+2026-05-03 21:48:51,807 - INFO - User pressed /
+2026-05-03 21:48:52,848 - INFO - User pressed 5
+2026-05-03 21:48:53,135 - INFO - User pressed 8
+2026-05-03 21:48:57,239 - INFO - User pressed 
+2026-05-03 21:48:57,240 - INFO - Enter Detected
+2026-05-03 21:48:57,240 - INFO - User's input returned
+2026-05-03 21:48:57,240 - WARNING - question: -85 / 58
+2026-05-03 21:48:57,240 - WARNING - user_ans: -85/58
+2026-05-03 21:48:57,240 - INFO - Binary get_value, left -85, right 58
+2026-05-03 21:48:57,240 - WARNING - correct ans: -85/58
+2026-05-03 21:48:57,240 - INFO - Binary get_value, left -85, right 58
+2026-05-03 21:48:57,240 - WARNING - is correct: True
+2026-05-03 21:48:57,240 - INFO - Binary get_value, left -85, right 58
+2026-05-03 21:48:57,240 - INFO - Waiting for user's input
+2026-05-03 21:48:59,465 - INFO - User pressed -
+2026-05-03 21:49:00,622 - INFO - User pressed 8
+2026-05-03 21:49:00,934 - INFO - User pressed 
+2026-05-03 21:49:02,045 - INFO - User pressed 9
+2026-05-03 21:49:02,453 - INFO - User pressed 5
+2026-05-03 21:49:03,713 - INFO - User pressed .
+2026-05-03 21:49:03,845 - INFO - User pressed 1
+2026-05-03 21:49:04,236 - INFO - User pressed 
+2026-05-03 21:49:04,236 - INFO - Enter Detected
+2026-05-03 21:49:04,236 - INFO - User's input returned
+2026-05-03 21:49:04,236 - WARNING - question: -96 + 0.9
+2026-05-03 21:49:04,237 - WARNING - user_ans: -951/10
+2026-05-03 21:49:04,237 - INFO - Binary get_value, left -96, right 9/10
+2026-05-03 21:49:04,237 - WARNING - correct ans: -951/10
+2026-05-03 21:49:04,237 - INFO - Binary get_value, left -96, right 9/10
+2026-05-03 21:49:04,237 - WARNING - is correct: True
+2026-05-03 21:49:04,237 - INFO - Binary get_value, left -96, right 9/10
+2026-05-03 21:49:04,237 - INFO - Waiting for user's input
+2026-05-03 21:49:06,319 - INFO - User pressed -
+2026-05-03 21:49:07,138 - INFO - User pressed 5
+2026-05-03 21:49:07,497 - INFO - User pressed 9
+2026-05-03 21:49:10,050 - INFO - User pressed 
+2026-05-03 21:49:10,051 - INFO - Enter Detected
+2026-05-03 21:49:10,051 - INFO - User's input returned
+2026-05-03 21:49:10,051 - INFO - Stopwatch timeout
+2026-05-03 21:49:10,051 - INFO - App Stopping
+2026-05-03 21:49:10,054 - INFO - Render stopped
+2026-05-03 21:49:10,155 - INFO - Input stopped
+2026-05-03 21:49:10,155 - INFO - App Stopped

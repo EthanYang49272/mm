@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import random
+import logging
 from fractions import Fraction
 from collections.abc import Sequence
 from typing import Protocol, TypeVar
@@ -121,7 +122,9 @@ class GeneratebleDecimal(GeneratebleTerminal, Decimal):
         super().__init__(max_bonus)
         self.integer_part = random.randint(CONFIG["min_int"], CONFIG["max_int"])
         self.decimal_part = random.randint(0, 9) * 10 # making the decimal is 1 d.p. by making sure decimal_part is a multiple of 10
-        self.value = Fraction(self.integer_part * 100 + self.decimal_part, 100)
+        sign = 1 if self.integer_part >= 0 else -1
+        self.value = Fraction(self.integer_part * 100 + sign * self.decimal_part, 100)
+        logging.info(f"Generate Decimal, int: {self.integer_part}, dec: {self.decimal_part}, val: {self.value}")
 
 class GeneratableOperator(Generatable, Operator):
     """

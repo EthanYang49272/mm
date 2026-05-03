@@ -88,7 +88,8 @@ class Decimal(Terminal):
     decimal_part: int
 
     def __init__(self, integer_part: int, decimal_part: int):
-        self.value = Fraction(integer_part * 100 + decimal_part, 100)
+        sign = 1 if integer_part >= 0 else -1
+        self.value = Fraction(integer_part * 100 + sign * decimal_part, 100)
         self.integer_part = integer_part
         self.decimal_part = decimal_part
     

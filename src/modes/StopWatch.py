@@ -69,7 +69,7 @@ class StopWatch():
             grid = Table.grid()
             grid.add_column()
             grid.add_row(f"Mode: {self.mode}")
-            grid.add_row(f"Percentage: {percentage}%")
+            grid.add_row("Percentage: %.02f%%" % percentage)
             grid.add_row(f"Remaining Time: {remaining_time}s")
             grid.add_row("")
             grid.add_row(f"{str(self.question)} = USERINPUT")
@@ -82,6 +82,6 @@ class StopWatch():
             grid = Table.grid()
             grid.add_column()
             grid.add_row(f"Score: {self.gained_score}/{self.total_score}")
-            grid.add_row(f"Percentage: {percentage}%")
+            grid.add_row("Percentage: %.02f%%" % percentage)
             grid.add_row("已超时，按Enter退出。USERINPUT")
             return grid
